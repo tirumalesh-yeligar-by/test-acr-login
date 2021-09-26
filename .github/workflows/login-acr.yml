@@ -28,8 +28,8 @@ jobs:
       - name: ACR login
         uses: azure/docker-login@v1
         with:
-          login-server: oqid0w2znnalf2o7yc3efvqe.azurecr.io
-          username: oqid0w2znnalf2o7yc3efvq         
+          login-server: oqid0w2znnalf2o7yc3efvqe.azurec
+          username: oqid0w2znnalf2o7yc3efvqe         
           password: 0XmgQWRw+qt9uW=hSCdhTdy7YB19uisa
 
       # Runs a single command using the runners shell
